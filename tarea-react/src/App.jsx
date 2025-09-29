@@ -79,7 +79,7 @@ export default function App() {
           Listado de Publicaciones
         </h1>
         <p className="lead text-muted">
-          Publicaciones obtenidas desde API json
+          10 Publicaciones obtenidas 
         </p>
       </header>
       
